@@ -20,7 +20,7 @@ class ImageResults extends Component {
     }
 
     render() {
-        console.log(this.props.images);
+        
         let imageListContent;
         const { images } = this.props;
         if(images){
