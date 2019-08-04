@@ -61,5 +61,5 @@ class ImageResults extends Component {
 ImageResults.propTypes = {
     images: PropTypes.array.isRequired
 }
-
+ 
 export default ImageResults;
